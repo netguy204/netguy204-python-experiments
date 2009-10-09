@@ -1,0 +1,43 @@
+/** Add css rules here for your application. */
+
+
+/** Example rules used by the template application (remove for your app) */
+h1 {
+  font-size: 2em;
+  font-weight: bold;
+  color: #777777;
+  margin: 40px 0px 70px;
+  text-align: center;
+}
+
+.LabeledTextBox {
+	border: 1px solid #AAAAAA;
+	margin: 5px;
+	padding: 3px;
+}
+
+.LabeledTextBox-label {
+	color: #666666;
+	padding: 6px;
+}
+
+.LedgerTable {
+	border: 1px solid #AAAAAA;
+	padding: 3px;
+	margin: 5px;
+}
+
+.LedgerTable-TextBox {
+	border: 1px solid #AAAAAA;
+	background-color: #EEEEEE;
+}
+
+.LedgerTable-EvenRow {
+	border: 1px solid #AAAAAA;
+	background-color: #EEFFEE;
+}
+
+.LedgerTable-OddRow {
+	border: 1px solid #AAAAAA;
+	background-color: #EEFFFF;
+}
